@@ -10,13 +10,24 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
 
-## About the Collection
+### About the Collection
 
 This _demo collection_ focuses on Psychiana, a **New Thought** denomination created in 1928 in Moscow, Idaho. This collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
+> This is an example of a block quote.
+>
+> A block quote with multiple lines!
+
+The Psychiana Collection has many interesting items, including:
+
+- Audio files
+- Photographs
+- Videos
+- and more!
+
 ***
 
-## About CollectionBuilder-CSV
+### About CollectionBuilder-CSV
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
