@@ -14,6 +14,8 @@ credits: true
 
 This _demo collection_ focuses on Psychiana, a **New Thought** denomination created in 1928 in Moscow, Idaho. This collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
+***
+
 ### About CollectionBuilder-CSV
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
