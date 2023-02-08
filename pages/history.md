@@ -23,9 +23,13 @@ This collection has a history. I am practicing how to use **Markdown**. _This te
 #### And a numbered list of items:
 
 1. The first item.
+
     With a line underneath it.
+
 2. And the second item.
+
     With a line underneath it.
+
 
 ## Featured Includes
 
