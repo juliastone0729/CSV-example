@@ -1,7 +1,7 @@
 ---
 title: Timeline
-layout: timeline
+layout: full-width-page
 permalink: /timeline.html
 ---
 
-## Collection Timeline
+{% include feature/timelinejs.html %}
