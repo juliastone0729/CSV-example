@@ -14,6 +14,8 @@ credits: true
 
 This _demo collection_ focuses on Psychiana, a **New Thought** denomination created in 1928 in Moscow, Idaho. This collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
+{% include feature/image.html objectid="https://www.lib.uidaho.edu/media/collections/fatmen.jpg" width="75" %}
+
 > This is an example of a block quote.
 >
 > A block quote with multiple lines!
