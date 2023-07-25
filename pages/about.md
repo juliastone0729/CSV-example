@@ -10,11 +10,13 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
 
+
+
 ### About the Collection
 
 This _demo collection_ focuses on Psychiana, a **New Thought** denomination created in 1928 in Moscow, Idaho. This collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/media/collections/fatmen.jpg" width="75" %}
+{% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_f7_miscellanious_negatives_010.jpg" width="50" caption=" " alt="Copies of the June 1948 edition of the The Way: A Quarterly Publication of the Psychiana Religion" %}
 
 > This is an example of a block quote.
 >
